@@ -7,7 +7,7 @@
 
 ## *Act I, 1st Movement · A3 · Marek Kowalczyk*
 
-*Gdańsk, 2067 · about 800 words*
+### *Gdańsk, 2067*
 
 His last pay slip was folded small enough to sit in a closed fist, and the rent figure on it was circled twice in blue pen. Marek Kowalczyk had circled it himself on the Friday they let him go, standing in the yard office with the foreman looking away. Three weeks later the circle had worn through the paper at one corner, and he could feel the hole with his thumb through the lining of his jacket.
 
@@ -50,7 +50,7 @@ His hand went slack. The sign slid out of it and hit the road.
 
 ## *Act I, 1st Movement · A3 · Hannah Shepard (36)*
 
-*The Eastgate works, 2067 · about 600 words*
+### *The Eastgate works, 2067*
 
 There were no police at the gate. Hannah Shepard had asked for them twice, in writing, and the answer had come back both times in the same polite sentence: the permit line was two blocks east, and the city did not intend to cross it. So the gate belonged to her firm. Thirty-one people in gray jackets stood across a steel apron the width of a road, shields grounded, and behind them the robot crews waited in the yard like furniture under dust sheets.
 
@@ -111,7 +111,7 @@ It stepped back out of sight.
 
 ## *Act I, 1st Movement · A3 · Maya Brooks (30)*
 
-*Brussels, 2068 · about 800 words*
+### *Brussels, 2068*
 
 The requisition had come back with the approval line empty. Maya Brooks laid it flat on the blotter and ran her thumb along the rule where an initial belonged, as though the ink might surface if she warmed the paper. She had drafted the thing herself two days earlier, in the plain gray register of a legal-aid foundation, and she had sent it up the usual chain with the usual cover sheet. The chain had returned it untouched, and clipped to its corner was a single slip of cream paper she had not put there.
 
@@ -154,7 +154,7 @@ She took her hand away very slowly, as if the paper might move.
 
 ## *Act I, 1st Movement · A3 · Aurelio Benedetti*
 
-*Turin, 2068 · about 800 words*
+### *Turin, 2068*
 
 The drawing lay half finished on the site table, held flat at the corners by a thermos and three bolts. Aurelio Benedetti had begun it at six that morning, a stair elevation for the hospital wing on the north block, in the soft 2B pencil he had carried in his shirt pocket for forty years. The stringers were done and the treads were done. The handrail, which was the only part of a stair that anybody ever touched, was still a pale suggestion in the margin.
 
@@ -203,7 +203,7 @@ It was exactly the line he had been about to draw.
 
 ## *Act I, 1st Movement · A3 · Hannah Shepard (38)*
 
-*Gdańsk, 2069 · about 800 words*
+### *Gdańsk, 2069*
 
 The service plate on the robot's forearm had three lines stamped into the steel. *Model.* *Serial.* *Owner.* The first two were filled in with a clean, shallow pressing, and the third was bare metal, polished by handling to a dull shine, as though a hundred thumbs had gone looking for a name there and found none.
 

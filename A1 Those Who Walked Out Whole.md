@@ -5,8 +5,8 @@
 — *The Road to the Stars*
 
 # A1.1
-
 *Act I, Movement 1 · A1. Those Who Walked Out Whole · Hannah Shepard (22), Galveston, 2053 · Investigative · about 800 words*
+
 
 The Galveston clinic smelled of antiseptic laid over Gulf humidity, a clean sting on top of salt and wet concrete, and somewhere behind the walls a ventilation fan ticked like a cooling engine. Hannah Shepard had been sitting in the waiting room since before dawn, her dress blues folded over the back of the chair beside her, the single gold stripe on the sleeve cuff catching the glow of a vending machine. She was twenty-two years old and had worn the commission for four months, and the weight of it did nothing for her now.
 
@@ -43,8 +43,8 @@ She wrenched the door open.
 The step was empty.
 
 # A1.2
-
 *Act I, Movement 1 · A1. Those Who Walked Out Whole · Lucía Ferreira (OC, exposition), the border clinic, 2058 · Investigative · about 800 words*
+
 
 The river had been shallower than the smuggler promised and colder than anything Lucía had imagined. She had carried Mateo on her hip across it with her skirt knotted above her knees, and she had felt his heat through two layers of wet cloth, the dry, papery heat of a body that had stopped keeping its own accounts. He was six years old. His kidneys had failed in the spring, and the doctors in the capital had told her, kindly and without meeting her eyes, to make him comfortable.
 

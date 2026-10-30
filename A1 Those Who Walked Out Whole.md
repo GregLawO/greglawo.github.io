@@ -148,5 +148,126 @@ The nib scratched. His thumb whitened on the barrel.
 Two words. A line under them. His name.
 
 *Nothing found.*
+#
+
+## *Act I, 1st Movement · A1 · Hannah Shepard (28)*
+
+### *Galveston, 2059* 
+
+The third lamp in the car park had been dead for eleven days, and Hannah Shepard had filed three requests to replace it. She stood at the staff door with one hand resting on the curve of her stomach, a habit she no longer noticed, and watched the dark patch where the light should have fallen across the asphalt. The night shift was ending. Behind her the corridor hummed with the ordinary noise of the Galveston complex, floor polishers and monitors and a nurse laughing at something on a tablet.
+
+Five months. The child had learned to kick whenever she stood still, and it kicked now, twice, as if asking what she was looking at. She had resigned her commission three years ago to run security here, and the work had taught her to read a place by what it lacked. The Thursday delivery van had not come. The stool at the gate was empty, and the guard's coffee cup was gone with him.
+
+Small absences, each with a reasonable excuse. She turned to call it in.
+
+The window beside her went white.
+
+Sound came second.
+
+The door slammed into her. The floor rose. Her shoulder hit tile.
+
+Glass rained down the corridor. Alarms began. Smoke rolled in at knee height.
+
+She rolled onto her side. Her palm found her stomach. Pressed.
+
+She got up.
+
+Doors opened along the ward. A nurse. Two orderlies. A technician with a coffee cup still in her fist.
+
+"East wing," Hannah said. "Walk."
+
+They ran anyway. She ran behind them, herding, checking faces. One was missing. The night pharmacist.
+
+She found him in the dispensary, flat under a fallen shelf, one hand moving. She dragged the shelf off. She hauled him up by the collar. He leaned on her. She leaned on the wall.
+
+Low in her back, something tightened.
+
+She kept walking.
+
+The east doors banged open. Gulf air, wet and warm. Floodlights. A line of staff on the lawn, bent double, coughing. She ran the roster in her head against the faces. All of them. All there.
+
+Her knees went.
+
+A medic caught her elbow. She sat down on the grass. Heat ran down the inside of her legs. She did not look.
+
+"Ma'am. Ma'am, lie back."
+
+She lay back. The sky was orange at one edge. The child was not kicking.
+
+She waited. She waited through a count of ten, and then another.
+
+The medic's hands were gentle, but they stopped moving.
+
+"I'm sorry," he said.
+
+They carried her in on a gurney, down the east corridor with the glass still crunching under the wheels. The ceiling lights slid past in a row. One flickered.
+
+A door banged at the far end.
+
+Her husband came down the corridor at a run, coatless, and slowed when he saw her. He stopped at the gurney. He took the rail in both hands. His knuckles went pale, and the rail shook, because his hands were shaking.
+
+He looked at her face. Then at her stomach. Then at her face.
+
+"Not again," he said. His voice was level, but his hands were not. "No child. Not until no one can reach you."
+
+The medic stood very still. The wheels ticked as the gurney settled.
+
+"Not until then," Hannah said.
+
+He bent his head until his forehead touched the rail beside her hand.
+
+Her hand lay on her stomach.
+
+It did not move.
+#
+
+## *Act I, 1st Movement · A1 · Maya Brooks (24)*
+
+### *Marseille, 2062*
+
+The bracelet on her wrist carried a number, a barcode, and a strip of blank white plastic where a name should have been printed. Maya Brooks had read it so many times that the digits had stopped being digits. She was twenty-four years old, and she had been dying in Marseille for fourteen months, the last three of them in rooms where nobody said the word.
+
+She counted the exits because she could not help it. Two doors, one to the corridor and one to a utility stair; a window painted shut along its bead; a ceiling vent too narrow for a child. Eleven steps from the bed to the corridor door, which was nine more than she could walk now. Six years of reading other countries' ministries had trained her to find the way out of a room before she found the chair, and the leukemia had taken nearly everything but that.
+
+The man who came in at noon sat on the visitor's chair and turned it a quarter turn, so that he could watch the door as well. She noticed. He noticed her noticing, and something in his face approved. He wore a gray coat in July and carried no flowers and no folder.
+
+"Mademoiselle Brooks." No one in this building had used her name in a month. "Your paper on the Ankara tariff schedules was the best thing your directorate produced last year. It was also the last, I understand, because you stopped coming in."
+
+"I am not receiving visitors."
+
+"You are receiving one." He said it gently, with no apology in it. "There is a machine on the second floor. People go in as you are, and they come out as they were. I will not ask you to believe me. I will ask you to let it be tried."
+
+She had heard this speech from three different men, and each had wanted her savings. "What does it cost?"
+
+"Nothing you are carrying." He let a silence sit. She counted it, because counting was what she did with silences. Four seconds. A man who rehearsed his pauses was holding something back, which was not the same as lying about the machine. "Afterward, a conversation. There is work, and it is the sort you are good at."
+
+She looked at the window, painted shut, and at the wedge of white sky in it. She had run out of better questions.
+
+"Yes," she said.
+
+Three days later, the frosted doors opened.
+
+She had expected the walk to hurt, but it did not. Eleven steps to the corridor door, and her legs took them. She did not need the wall. She did not need the rail.
+
+Twelve. Thirteen.
+
+She kept going.
+
+Her right hand was tapping against her thigh. Two doors. One stair. One sealed window. She could not make it stop.
+
+The corridor ran thirty paces to a glass door. Beyond the glass, a car park and the sun. She counted the paces. She counted the fire exits, and the cameras, and the man at the end.
+
+Gray coat. Hands in pockets. He had turned his chair into a stance, and his back was to the glass so that he could see her come.
+
+She stopped three paces short. Her heart was loud in her ears, strong and slow, a beat she had not heard in a year.
+
+He smiled, a little. Not with his teeth.
+
+"Sixty more years," he said. "Perhaps seventy. Mademoiselle Brooks, what would you do with them?"
+
+Her fingers stopped tapping.
+
+She opened her mouth.
+#
 
 ---

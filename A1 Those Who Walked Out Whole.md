@@ -1,4 +1,4 @@
-## Those Who Walked Out Whole
+# Those Who Walked Out Whole
 
 *“The clinics were built around a single apparatus, the Med-Pod. Patients entered it ill or broken and, by their own accounts, left restored. The accounts do not gush. They are written in a stunned, flat register, like those of survivors of an accident who have not yet decided whether to believe they are alive. Patients crossed borders to reach the clinics. Families waited to see a cure work on a neighbor before trusting it with their own. By the 2060s the clinics stood in all the larger economies, though standing everywhere is a different matter from being accepted.”*
 
@@ -7,7 +7,7 @@
 
 ## *Act I, 1st Movement · A1 · Hannah Shepard (22)*
 
-##### *Galveston, 2053*
+### *Galveston, 2053*
 
 The wall behind the front desk was bare paint, exactly where a license should have hung, and Hannah Shepard had been staring at it since before dawn. The Galveston clinic smelled of antiseptic laid over Gulf humidity, a clean sting on top of salt and wet concrete, and somewhere behind the walls a ventilation fan ticked like a cooling engine. Her dress blues were folded over the chair beside her, the single gold stripe on the sleeve cuff catching the glow of a vending machine. She was twenty-two years old and had worn the commission for four months, and the weight of it did nothing for her now.
 
@@ -50,7 +50,7 @@ The step was empty.
 
 ## *Act I, 1st Movement · A1 · Lucía Ferreira*
 
-##### *A border clinic, 2058*
+### *A border clinic, 2058*
 
 The slip of paper had gone soft in Lucía's fist, the ink running at its edges, and she had not dared to look at it since the clerk pressed it into her hand. The river had been shallower than the smuggler promised and colder than anything she had imagined. She had carried Mateo across it on her hip with her skirt knotted above her knees, and she had felt his heat through two layers of wet cloth, the dry, papery heat of a body that had stopped keeping its own accounts. He was six years old.
 
@@ -105,7 +105,7 @@ Fifty-eight.
 
 ## *Act I, 1st Movement · A1 · Anselm Roque*
 
-##### *A district clinic, 2059*
+### *A district clinic, 2059*
 
 The closure order rode on Anselm Roque's knee in a cream ministry envelope, still sealed, its flap gone tacky in the damp heat of the waiting room. He had signed for it at seven that morning, and the clerk at the district office had set a rubber stamp the size of a fist in his bag beside it, as though the two belonged together. In eleven years with the licensing department he had never carried an order that weighed so little.
 

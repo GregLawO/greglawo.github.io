@@ -7,7 +7,7 @@
 
 ## *Act I, 1st Movement · A2 · Maya Brooks (25)*
 
-*Rotterdam, 2063 · about 800 words*
+### *Rotterdam, 2063*
 
 Three forms lay stacked on Maya Brooks's desk, squared at the corners, and on each of them the same line was empty. She had noticed it at seven that morning, and by noon she had stopped pretending to read anything else. Rain ticked against the window of the brokerage office, a cover that sold marine insurance on the ground floor and sold her attention on the third, and beyond the glass the harbor cranes moved like patient herons through the gray.
 
@@ -54,7 +54,7 @@ She could not make her hand lift it.
 
 ## *Act I, 1st Movement · A2 · Hannah Shepard (33)*
 
-*Aboard the test ship, 2064 · about 800 words*
+### *Aboard the test ship, 2064*
 
 The pre-flight checklist ran to forty-one lines, and not one of them mentioned the drive. Hannah Shepard had read it three times on the launch pad, laminated card held flat against her knee, and the gap sat in the middle of the page like a missing stair. Brakes, hull seals, life support, field harness, comms, escort protocol. She had written the last one herself. Between the harness and the comms, where the heart of the ship should have been, was a blank line with nothing to initial.
 
@@ -107,7 +107,7 @@ Nobody aboard could say why it should.
 
 ## *Act I, 1st Movement · A2 · Emil Varga*
 
-*The Lisbon docks, 2065 · about 800 words*
+### *The Lisbon docks, 2065*
 
 The fare was printed on the departure board in letters a hand tall, and it was more than Emil Varga's pension paid in two years. He had read it three times standing at the rail, and each time the number had stayed exactly where it was. *Scheduled passenger service. Sol to Alpha Centauri and return. Eight days. No landing.* Beneath it, in smaller type, the next sailing, and the one after, as if this were any ferry on any river.
 
@@ -156,7 +156,7 @@ His hands were still raised.
 
 ## *Act I, 1st Movement · A2 · Colm Farrady*
 
-*A ministry office, 2065 · about 800 words*
+### *A ministry office, 2065*
 
 The folder in Colm Farrady's hands weighed almost nothing, and it had taken him a week to understand that this was the problem. It was a thick, handsome thing, buff card with a red cord, the kind the ministry used for a purchase of national importance. Inside lay forty pages of search results, and every page was stamped in the same violet ink. *No record. No record. No record.*
 
@@ -203,7 +203,7 @@ It would not come down.
 
 ## *Act I, 1st Movement · A2 · Hannah Shepard (35)*
 
-*Aboard the escort flagship Marlin, 2066 · about 600 words*
+### *Aboard the escort flagship Marlin, 2066*
 
 The drill card in Hannah Shepard's hand was the one she had written herself, after the stutter, in the long quiet of a hotel room in Geneva two years ago. She had laminated it in a copy shop with a stranger's machine, and the corners had since gone soft from handling. Eight steps in plain black type. *Dead drive. Close the gap. Tether. Match field. Bring them home.* She knew it by heart now. She carried it anyway.
 

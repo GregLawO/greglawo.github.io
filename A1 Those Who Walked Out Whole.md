@@ -1,10 +1,13 @@
 ## Those Who Walked Out Whole
+
 *“The clinics were built around a single apparatus, the Med-Pod. Patients entered it ill or broken and, by their own accounts, left restored. The accounts do not gush. They are written in a stunned, flat register, like those of survivors of an accident who have not yet decided whether to believe they are alive. Patients crossed borders to reach the clinics. Families waited to see a cure work on a neighbor before trusting it with their own. By the 2060s the clinics stood in all the larger economies, though standing everywhere is a different matter from being accepted.”*
 
 — *The Road to the Stars*
+
 # A1.1
+
 *Act I, Movement 1 · A1. Those Who Walked Out Whole · Hannah Shepard (22), Galveston, 2053 · Investigative · about 800 words*
-## Chapter
+
 The Galveston clinic smelled of antiseptic laid over Gulf humidity, a clean sting on top of salt and wet concrete, and somewhere behind the walls a ventilation fan ticked like a cooling engine. Hannah Shepard had been sitting in the waiting room since before dawn, her dress blues folded over the back of the chair beside her, the single gold stripe on the sleeve cuff catching the glow of a vending machine. She was twenty-two years old and had worn the commission for four months, and the weight of it did nothing for her now.
 
 Her father had gone through the frosted doors three days earlier, gray as old rope, with the cancer in his pancreas outrunning every prognosis in Houston. A foreman from his old shipyard crew, whose brother had walked out of a place like this one, had written the address on a napkin, and she had followed it the way a person follows a rumor when every sensible road has run out.
@@ -39,24 +42,25 @@ She wrenched the door open.
 
 The step was empty.
 
-### **A1.2: The Border Queue**
-*Lucía Ferreira, 2058*
+# A1.2
 
-The river had been shallower than the smuggler promised and colder than anything Lucía had imagined. She had carried Mateo on her hip across it with her skirt knotted above her knees. She had felt his heat through two layers of wet cloth, the dry, papery heat of a body that had stopped keeping its own accounts. He was six years old. His kidneys had failed in the spring, and the doctors in the capital had told her, kindly and without meeting her eyes, to make him comfortable.
+*Act I, Movement 1 · A1. Those Who Walked Out Whole · Lucía Ferreira (OC, exposition), the border clinic, 2058 · Investigative · about 800 words*
 
-The clinic stood on the far bank, three streets back from the water. It was a squat building of pale concrete with a green cross painted over the door, and it looked like any pharmacy or dental practice she had ever passed without a glance. She had expected something grander, or something stranger. Instead, there were plastic chairs bolted to the floor, a water cooler with an empty cup dispenser, and a television murmuring in the corner about a football match. The ordinariness unsettled her more than any marble hall would have. A place that cured the dying ought to look like it knew what it was.
+The river had been shallower than the smuggler promised and colder than anything Lucía had imagined. She had carried Mateo on her hip across it with her skirt knotted above her knees, and she had felt his heat through two layers of wet cloth, the dry, papery heat of a body that had stopped keeping its own accounts. He was six years old. His kidneys had failed in the spring, and the doctors in the capital had told her, kindly and without meeting her eyes, to make him comfortable.
 
-The queue ran the length of the waiting room and out the side door into a yard, where families sat on upturned crates and folded blankets. Nobody pushed, and nobody called out. Lucía had seen crowds at hospitals before, and they had always carried a low, ragged noise of pleading. This crowd was quiet in a different way, watchful, like people at the edge of a frozen pond waiting to see whether somebody else’s weight would hold.
+The clinic stood on the far bank, three streets back from the water. It was a squat building of pale concrete with a green cross painted over the door, and it looked like any pharmacy or dental practice she had ever passed without a glance. She had expected something grander, or something stranger. Instead there were plastic chairs bolted to the floor, a water cooler with an empty cup dispenser, and a television murmuring in the corner about a football match. The ordinariness unsettled her more than any marble hall would have. A place that cured the dying ought to look as though it knew what it was.
 
-She learned the custom from the woman beside her, a farmer’s wife from the uplands who had been sitting there since the previous morning. "You did not simply go in," the woman said. "You waited and you watched." Her cousin’s neighbor had gone in on Tuesday with a growth in his throat, and they were all waiting for him to come out. If he walked out whole and ate his supper like a man, then the rest of them would trust the machine. If he did not, well, they would carry their children home again and keep their money.
+The queue ran the length of the waiting room and out the side door into a yard, where families sat on upturned crates and folded blankets. Nobody pushed, and nobody called out. Lucía had seen crowds at hospitals before, and they had always carried a low, ragged noise of pleading. This crowd was quiet in a different way, watchful, like people at the edge of a frozen pond waiting to see whether somebody else's weight would hold.
 
-“And if he does come out?” Lucía asked.
+She learned the custom from the woman beside her, a farmer's wife from the uplands who had been sitting there since the previous morning. "You do not simply go in," the woman said. "You wait, and you watch." Her neighbor's boy had gone through the back doors on Tuesday with a growth in his throat, and the whole yard was waiting for him to come out. If he walked out whole and ate his supper like a child, then the rest of them would trust the machine. If he did not, they would carry their own children home again and keep their money.
 
-“Then we still watch him for a week,” the woman said. “Cures that happen fast can unhappen fast.”
+"And if he does come out?" Lucía asked.
 
-Lucía understood her completely. She had spent her own savings on three treatments that had promised everything, and she had buried her mother-in-law’s faith along with the second one. She knew what hope cost, and she knew how little of it one person could afford. So she took a numbered slip from the clerk’s desk and sat down on the floor with Mateo across her lap. She counted the people who came out of the double doors at the back of the room, because counting was the only thing she could still do for him.
+"Then we still watch him for a week," the woman said. "Cures that happen fast can unhappen fast."
 
-There had been four since midday. A grey-haired man had stood on his own and then wept without any sound. A girl of about twelve had come out holding a crutch she no longer seemed to need, and she carried it as if she were embarrassed by it. Each time the doors opened, every head in the room turned together, and each time the people who came out looked the way Lucía imagined survivors of a shipwreck must look, stunned and quiet and blinking in the strange ordinary light. Nobody cheered. She wondered if that was because they did not yet dare to.
+Lucía understood her completely. She had spent her savings on three treatments that promised everything, and she had buried her mother-in-law's faith along with the second one. She knew what hope cost, and she knew how little of it one person could afford. So she took a numbered slip from the clerk's desk and sat down on the floor with Mateo across her lap, and she counted the people who came out of the double doors at the back of the room, because counting was the only thing she could still do for him.
+
+There had been four since midday. A grey-haired man had stood on his own and then wept without any sound. A girl of about twelve had come out holding a crutch she no longer seemed to need, and she carried it as if she were embarrassed by it. Each time the doors opened, every head in the room turned together, and each time the people who came out looked the way Lucía imagined survivors of a shipwreck must look, stunned and quiet and blinking in the strange ordinary light. Nobody cheered. She wondered whether that was because they did not yet dare to.
 
 Mateo stirred against her collarbone and said something in his sleep. She smoothed the damp hair back from his forehead and found the skin hotter than before. She told herself the doors would open for them soon. She told herself the number in her fist was only paper, and that paper could be made to mean anything.
 
@@ -68,14 +72,16 @@ Barefoot. Skinny. Laughing.
 
 He crossed the tiles in six strides. His feet slapped. He skidded past her knee.
 
-Tomás. The neighbor’s boy, the one the whole yard had been waiting on.
+Tomás. The neighbor's boy, the one the whole yard had been waiting on.
 
 His mother screamed his name and caught him up off the floor.
 
 The clerk lifted a card from the desk.
 
-“Forty-one,” she called.
+"Forty-one," she called.
 
 Lucía looked at the slip in her fist.
 
 Fifty-eight.
+
+---

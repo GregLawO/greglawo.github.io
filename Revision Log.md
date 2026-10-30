@@ -243,6 +243,33 @@ Applied Revision_Proposal_and_Related_Fixes.md to the files it touches: The_Legi
 - **Who does not press her.** The A1.1 cast line said "he does not press her" without saying who. It now says her father, which is how the A1.1 draft reads. The same wording was fixed in Act_I_Outline.md and Act_I_Movement_1_The_Three_Doors.md. Story_Structure.md Section 12 and the Act I outline and movement files also carry the register ruling.
 - **Inference made without asking:** the pronoun means her father. The Human_Characters.md "he" is the Protagonist, which is a separate, off-page beat.
 
+## Act_I_Outline.md
+
+### Revision: aligned to the revised writing style
+
+- **Ending types added (author request).** Every one of the 75 chapters is tagged P (physical event), Q (quiet reversal), B (held breath), W (withheld answer), or E (emotional beat), read from the hooks already in Excerpt_Bank.md. The act reads P 11, Q 47, B 2, W 6, E 9. No batch has more than two physical events.
+- **Batch units added.** Each excerpt now carries a batch end line (what it ends on emotionally) and one echoed earlier element, as the revised style's pre-draft checklist asks.
+- **Exposition wants added.** The 12 OC (exposition) chapters each carry a small want, and a deadline where one fits.
+- **Rewrote Section 4** as a gear plan and an ending plan, with the tally table, fifteen proposed re-cuts, and a voice sheet check of six clashing batches. Added a Style (author ruling) bullet to Section 5 and four items to Section 6.
+- **Plot unchanged.** The chapter lines, plants, threads, years, and word counts are as before.
+- **Inferences made without asking:** the batch end lines, the echoes, every want and deadline, the fifteen proposed re-cuts, and the voice fixes. All are marked as proposals in the file.
+- **Noticed, not changed.** Excerpt_Bank.md still describes every ending as a "cliffhanger" and every [I] chapter as ending in the Fast Gear, which is the old single-shape wording. Quiet reversal is 63 percent of the act's endings, and A4 and C6 are five in a row. The re-cuts in Section 4 are not applied until the author rules.
+
+### Revision: Movement 1 aligned to the revised style
+
+- **Act_I_1st_Movement_(The_Three_Doors)_Outline.md.** Each of the 15 chapters now carries an ending type (A1: P, Q, Q, E, W; A2: Q, P, E, Q, P; A3: P, P, Q, Q, Q), an opening detail, and a body detail for its Fast Gear close. Each excerpt carries a batch end line, an echo, and an ending mix. The three OC (exposition) chapters carry a want and a deadline. The gear mix line, movement rules, and Flags were revised to match.
+- **Plot unchanged.** Years, POVs, hooks, plants, word counts, and the reordering of A1 and A2 stand as before.
+- **Inferences made without asking:** every opening detail, body detail, want, and deadline. A3.5 is shown as Q with the W re-cut proposed, matching Act_I_Outline.md.
+- **Noticed, not changed.** A3's strongest beat (the stone in A3.2) falls before its fifth chapter.
+
+## Overview.md (Writing Rules)
+
+### Revision: contrast conjunctions
+
+- **New Writing Rule (author ruling).** Use "but" and not "and" when the second clause cuts against what the first leads the reader to expect. Added to Overview.md (Writing Rules). The example is the A1.1 close: "A card slides under the door, but the step is empty."
+- **Inference made without asking:** the reader-expectation test, and the emphasis on chapter closes.
+- **Applied.** The A1.1 beat is worded this way in Act_I_Outline.md and the Movement 1 outline.
+
 ## Human_Characters.md
 
 ### Revision: chapter POVs

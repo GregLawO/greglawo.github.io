@@ -1,48 +1,30 @@
-## 2. Protagonist's Knowledge and Expertise
+## 2. Kenji's Knowledge and Expertise
 
-- **StarCraft**
-  - Terran Warp Drive Navigation and Technology
-  - Terran CMC Powered Armor Technology
-  - Protoss Anti-Gravity Technology
-- **Elysium**
-  - Med-Pod Technology
-- **The Matrix**
-  - Knowledge Uploading and Downloading Technology and Technique
-- **WH40K**
-  - Archmagos Dominus Belisarius Cawl's Primaris Project
-  - IoM Lasgun and Bolter Technology
-- **HALO**
-  - UNSC Cloning Technology and Technique
-  - Covenant Energy Dissipating Shield Technology
-  - UNSC "Dumb" AI Technology
-  - UNSC Ship Building Technology
-- **Gundam**
-  - Axis Zeon Gundarium Gamma
-- **Starship Troopers**
-  - Terran Federation Mobile Infantry Powered Suit Technology
-- **MCU**
-  - Anthony Stark's Palladium Arc Reactor Technology
-- **Homeworld**
-  - Resource Collection and Assembly Technology
-- **Star Trek**
-  - Vulcan Data Crystal Technology
-- **I, Robot**
-  - Robotics Technology
-- **Mass Effect** (author ruling)
-  - Systems Alliance Technology
-  - Cerberus Technology
+- **StarCraft:** Terran warp drive navigation and technology; Terran CMC powered armor; Protoss anti-gravity.
+- **Elysium:** Med-Pod.
+- **The Matrix:** Knowledge uploading and downloading.
+- **WH40K:** Archmagos Dominus Belisarius Cawl's Primaris Project; IoM Lasgun and Bolter.
+- **HALO:** UNSC cloning; Covenant energy dissipating shield; UNSC "Dumb" AI; UNSC ship building.
+- **Gundam:** Axis Zeon Gundarium Gamma.
+- **Starship Troopers:** Terran Federation Mobile Infantry powered suit.
+- **MCU:** Anthony Stark's Palladium Arc Reactor.
+- **Homeworld:** Resource collection and assembly.
+- **Star Trek:** Vulcan data crystal.
+- **I, Robot:** Robotics.
+- **Mass Effect (author ruling):** Systems Alliance technology and Cerberus technology.
 
-He pairs the robotics technology with the Dumb AI technology to build and man his secret bases on Earth and around the Solar System.
+He pairs robotics with Dumb AI to build and man his secret bases on Earth and around the Solar System.
 
 ### Mass Effect technology
 
-- Cerberus does not exist as an organization, so that part is knowledge only. The Systems Alliance exists in this story only as the coalition of the Imperium's enemies formed in 2135 (author ruling), so the Systems Alliance technology he holds is still his knowledge of Mass Effect's human military technology, not the Alliance's own. Like all his knowledge, it is full expertise, it cost him nothing, and he held it from waking in 2050.
-- (inference) He cannot recognize it as Mass Effect technology until the 2065 realization. In 2050 it is one more block of knowledge he cannot place.
-- (inference) Systems Alliance technology covers the human military side of Mass Effect: kinetic barriers, mass accelerator weapons, omni-tools, element-zero drives and fields, Alliance warship and stealth-frigate design, and human biotic training.
-- (inference) Cerberus technology covers the black-program side: advanced cybernetics, biotic creation and upgrade programs (no implants), and resurrection and reconstruction work.
-- **He does not use Cerberus's Reaper research** (author ruling). Reaper-derived technology and indoctrination research are not part of what he uses.
-- **Element zero comes from canon sources** (author ruling), meaning the deposits found on planets and asteroids as in canon. (open) Which systems, and when he begins mining them.
-- (open) The exact scope of each, and how they relate to his Terran warp, Gundarium, and Primaris lines.
+- Canon's Cerberus does not exist as an organization, so its technology is knowledge only. The author-side conspiracy that acts against Kenji is a separate organization and shares no technology with it.
+- The Systems Alliance exists in this story only as the coalition of the Imperium's enemies formed in 2135 (author ruling). The Systems Alliance technology he holds is therefore his knowledge of Mass Effect's human military technology, not the Alliance's own. Like all his knowledge, it is full expertise, cost him nothing, and was held from waking in 2050.
+- (inference) He cannot recognize it as Mass Effect technology until the 2065 realization.
+- (inference) Systems Alliance technology covers kinetic barriers, mass accelerator weapons, omni-tools, element-zero drives and fields, Alliance warship and stealth-frigate design, and human biotic training.
+- (inference) Cerberus technology covers advanced cybernetics, biotic creation and upgrade programs (no implants), and resurrection and reconstruction work.
+- **He does not use Cerberus's Reaper research** (author ruling). Reaper-derived technology and indoctrination research are not used.
+- **Element zero comes from canon sources** (author ruling): the deposits on planets and asteroids, as in canon.
+- (open) Which systems he mines and when he begins. The exact scope of each technology, and how they relate to his Terran warp, Gundarium, and Primaris lines.
 
 ## 2A. Technology Propagation
 
@@ -51,29 +33,29 @@ He allows the following technologies to spread, up to the limits shown.
 | Technology | Level allowed | Description |
 | --- | --- | --- |
 | Anti-Gravity | Primitive | Lifts heavy loads over short ranges at high power cost. |
-| Warp | Primitive before the Imperium. Under the Imperium, civilian haulers up to Level One and civilian passenger ships up to Level Two | Primitive is 1 ly per day, Level One is 31.25 ly per day, and Level Two is 62.5 ly per day (see Section 7). Haulers of 5 km and longer are Crown assets and stay outside the civilian grade. |
+| Warp | Primitive before the Imperium. Under the Imperium, civilian haulers up to Level One and civilian passenger ships up to Level Two | Primitive is 1 ly/day, Level One 31.25, Level Two 62.5 (Ships.md, Section 7). Haulers of 5 km and longer are Crown assets and stay outside the civilian grade. |
 | Med-Pod | Primitive | Rejuvenation and longevity treatments are available, and rare diseases can be treated. |
-| Lasgun and Bolter | Primitive | Reliable but still of low quality. |
+| Lasgun and Bolter | Primitive | Reliable but of low quality. |
 | Energy Dissipation | Primitive | A thin, partial shield with a heavy power draw and short duration. |
 | Energy Generation | Functional tokamak fusion reactor | The Palladium Arc Reactor stays private. |
 | Resource Collection and Assembly | Full | |
 | Data Crystal | Full | |
-| Cloning | Level Two | See the cloning tiers below. |
-| Dumb AI | Level Two | See the Dumb AI tiers below. |
-| Ship Building | Level Three | See the ship building tiers below. |
-| Robotics | Level Three | See the robotics tiers below. |
-| Gundarium | Alpha | See the Gundarium tiers below. |
+| Cloning | Level Two | See below. |
+| Dumb AI | Level Two | See below. |
+| Ship Building | Level Three | See below. |
+| Robotics | Level Three | See below. |
+| Gundarium | Alpha | See below. |
 | Mobile Infantry Powered Suit | Level One | An unpowered exoskeleton. |
 | Knowledge Upload | Private | Never allowed to spread. |
 | Primaris Project | Private | Never allowed to spread. |
 | CMC Powered Armor | Private | Basis of the Imperial armor types. |
 | Systems Alliance Tech | (open) | Level and limits not yet chosen. |
-| Cerberus Tech | (open) | Level and limits not yet chosen. Excludes the Reaper research, which he does not use (see Section 8). |
+| Cerberus Tech | (open) | Level and limits not yet chosen. Excludes the Reaper research. |
 
-- (inference) Cerberus technology overlaps with the Primaris Process and the Inquisition's work, so it is more likely to stay private. This is a suggestion, not a ruling.
+- (inference) Cerberus technology overlaps with the Primaris Process and the Inquisition's work, so it is more likely to stay private.
+- The conspiracy has no technology of its own. It seeks control of the firms, licensors, and regulators that stand between the allowed technologies and the public (author-side).
 
 ### Cloning tiers
-
 | Level | Description |
 | --- | --- |
 | 1 | Tissue and organ cloning. |
@@ -82,10 +64,9 @@ He allows the following technologies to spread, up to the limits shown.
 | 4 | Accelerated growth with trait editing. |
 | 5 | Flash cloning with direct knowledge download. |
 
-- (inference) The Legions' rank and file are not grown (author ruling, see Section 9B), so no Legion tier above Level Two is needed. Which private cloning tier the Cradle still uses, if any, is open.
+- The Legions' rank and file are not grown (author ruling), so no Legion tier above Level Two is needed. (open) Which private cloning tier the Cradle still uses, if any.
 
 ### Dumb AI tiers
-
 | Level | Description |
 | --- | --- |
 | 1 | Task controllers. |
@@ -95,7 +76,6 @@ He allows the following technologies to spread, up to the limits shown.
 | 5 | Strategic AIs. |
 
 ### Ship building tiers
-
 | Level | Description |
 | --- | --- |
 | 1 | System craft such as tugs and shuttles. |
@@ -105,10 +85,9 @@ He allows the following technologies to spread, up to the limits shown.
 | 5 | Carriers and battleships. |
 | 6 | Infinity-class supercarrier structure, the peak. |
 
-- The relay-moving ship is a civilian-class relay transporter (see Section 7A). Which tier it sits in is open, and so is the tier of every Imperial ship class in Section 7A.
+- (open) Which tier the relay-moving ship sits in, and the tier of every Imperial ship class.
 
 ### Robotics tiers
-
 | Level | Description |
 | --- | --- |
 | 1 (Primitive) | Fixed industrial arms and simple mobile robots under human control. |
@@ -118,7 +97,6 @@ He allows the following technologies to spread, up to the limits shown.
 | 5 | Advanced humanoid robots. |
 
 ### Gundarium tiers
-
 | Tier | Description |
 | --- | --- |
 | Alpha | A strong, light structural alloy. |
@@ -126,7 +104,6 @@ He allows the following technologies to spread, up to the limits shown.
 | Gamma | Full armor grade, used in Imperial ships and Legion armor. |
 
 ### Mobile Infantry Powered Suit tiers
-
 | Level | Description |
 | --- | --- |
 | 1 | Unpowered exoskeleton. |
@@ -138,6 +115,5 @@ He allows the following technologies to spread, up to the limits shown.
 ### Biotics and Primaris levels (author ruling)
 
 - The Emperor can create perfect biotic humans. The Imperium can also turn a grown human into a natural biotic or upgrade an existing biotic, within the limits of the individual's base talent and physique. Biotics carry no implants and suffer no implant migraines.
-- Primaris levels: full (Imperial Family, Custodians), 3/4 (Inquisitors, Legion officers and NCOs), 1/2 (Legionnaires), and 1/4 (Guard elites, officers, and NCOs; Navy officers and NCOs). The Imperial Family is unconditioned (inference), the Custodians, Inquisition, and Legions are fully conditioned, and the 1/4 level is partially conditioned (cannot act against the Emperor or the Imperial Family, no secrecy directive, free to speak and disagree).
+- Primaris levels: full (Imperial Family, Custodians), 3/4 (Inquisitors, Legion officers and NCOs), 1/2 (Legionnaires), and 1/4 (Guard elites, officers, and NCOs; Navy officers and NCOs). The Imperial Family is unconditioned (inference). The Custodians, Inquisition, and Legions are fully conditioned. The 1/4 level is partially conditioned: it cannot act against the Emperor or the Imperial Family, has no secrecy directive, and is free to speak and disagree.
 - Biotic tiers run from 1 (Zero-Capable) to 6 (Omega). Full tables are in The_Legions_The_Inquisition_and_The_Custodians.md, Section 10D.
-

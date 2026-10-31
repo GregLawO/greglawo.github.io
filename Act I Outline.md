@@ -1,301 +1,221 @@
 # Act I Outline: The Gift
 
-Companion to Story_Structure.md (Section 12A), Excerpt_Bank.md, and My Writing Style - The Elastic Pace System (Revised).md. Act I covers Chapters A to C: 15 excerpts, 75 single-POV micro-chapters, about 57,750 words, 2053 to 2075. It holds Arc 1 (The Gift, A and B) and Arc 2 (The Door, C). Everything below is drawn from the bank's casts. Movement names are mine and are proposals (decision).
-
-This version is aligned to the revised style (the serialization revision). Every chapter now carries an ending type. Every excerpt now carries a batch end line, an echo, and any voice or exposition notes the style's pre-draft checklist asks for. The ending types are read from the hooks already in Excerpt_Bank.md, so no plot changed. The batch end lines, echoes, wants, deadlines, and proposed re-cuts are mine and are proposals (decision).
+Companion to Story_Structure.md (Section 12A), Excerpt_Bank.md, and the Elastic Pace System (Revised). Act I covers Chapters A to C, 2050 to 2075, in 100 micro-chapters as currently cast. A1 to A3 are published. A4 to B4 are cast at 10 micro-chapters each, released as two batches of 5. C1 to C7 keep their original casts of 5 and are extended to 10 each when drafted. Movement names, endings, batch lines, echoes, wants, and re-cuts are proposals (decision).
 
 ## 1. Shape of the act
 
-- **What changes.** Humanity is handed cures and the medical knowledge to deliver them, then the ships and the machines, by no one it can name. The cavern then shows that it was not first, and Charon turns out to be a door.
+- **What changes.** Humanity is handed cures and the knowledge to deliver them, then ships and machines, by no one it can name. The reader sees who is behind the gift (Kenji) and what it costs him. The cavern then shows that humanity was not first, and Charon turns out to be a door.
 - **Ends on.** The road runs out at the second jump, and in the letters dread overtakes fascination.
-- **The engine.** Each excerpt answers one question and raises the next: who is giving us this (A), can the stars really be settled (B), what lies behind the dead, and will it return (C).
+- **The engine.** Each chapter answers one question and raises the next: who is giving us this and what does it cost them (A, B), what lies behind the dead, and will it return (C).
 - **Tone.** Wonder in A, strain in B, unease in C. The act closes on a line the in-universe record supplies: after the relay, the question "belonged to locksmiths."
-- **Link to the Prologue.** A1, A2, and A3 are the Prologue's three doors (the body, the stars, the work of the world), in that order. A4 is the question the Prologue says no one could answer.
-- **Release unit.** Each excerpt is one weekly batch of five chapters, read in one sitting. Each batch is shaped as a rising unit: an anchor chapter, a quieter middle, and the strongest hook last.
+- **Link to the Prologue.** A1, A2, and A3 are the Prologue's three doors (the body, the stars, the work of the world). A4 is the question the Prologue says no one could answer.
+- **Dramatic irony.** From A4 the reader sees what the in-universe history cannot. Each excerpt is the scholar's account, and the micro-chapters complete or contradict it.
 
-| Movement | Excerpts | Chapters | Words | Function |
-| --- | --- | --- | --- | --- |
-| 1. The Three Doors | A1 to A3 | 15 | about 11,250 | The gifts arrive and people take them, with the price shown in each. |
-| 2. The Gamble | A4 to B4 | 25 | about 19,350 | The mystery hardens, then the stars are made a plan by a rescue that no one can explain. |
-| 3. The Dead | C1 to C3 | 15 | about 11,450 | The flare, the cavern, and the world's reaction. |
-| 4. The Road | C4 to C7 | 20 | about 15,700 | The door opens, the road reaches Arcturus, and it ends where someone else got there first. |
+| Movement | Chapters | Micro-chapters | Function |
+| --- | --- | --- | --- |
+| 1. The Three Doors | A1 to A3 | 15 (published) | The gifts arrive and people take them, with the price shown in each. |
+| 2. The Gamble | A4 to B4 | 50 | The man behind the gifts, his quiet life, the squeeze he did not order, and the rescue that sends the stars on their way. |
+| 3. The Dead | C1 to C3 | 15 (to extend) | The flare, the cavern, and the world's reaction. |
+| 4. The Road | C4 to C7 | 20 (to extend) | The door opens, the road reaches Arcturus, and it ends where someone else got there first. |
 
-## 2. Excerpt by excerpt
+## 2. Chapter by chapter
 
-Each line gives POV, age, year, type, ending type, and the chapter's job. "Plants" lists what the excerpt sets up for later.
+**Key.** Type: [I] investigative, [A] action, [H] hybrid. Ending (End): P physical event, Q quiet reversal, B held breath, W withheld answer, E emotional beat. Batch line: what a batch of five ends on emotionally. Echo: the earlier element a batch returns to. Wants: the small want and deadline given to each exposition narrator.
 
-**Key.**
-- **Chapter type:** [I] investigative, [A] action, [H] hybrid.
-- **Ending type (End):** P physical event, Q quiet reversal, B held breath, W withheld answer, E emotional beat with no hook.
-- **Batch line:** what the batch ends on emotionally, written before drafting and written toward.
-- **Echo:** the one earlier element the batch returns to, for a reader coming back after a week.
-- **Wants:** the small want and deadline given to each OC (exposition) narrator, so the lore arrives as something they are trying to do.
+### Movement 1: The Three Doors (published)
 
-### Movement 1: The Three Doors
-
-**A1. Those Who Walked Out Whole** (the first door, the body)
-1. Hannah (22), 2053 [I] · End: P. Her father is cured and asks for breakfast. She declines the upload, and her father does not press her. A card with no name slides under the door, but the step is empty. Establishes her independence.
-2. OC (exposition), 2058 [I] · End: Q. A mother crosses a border and waits to see a cure work on a neighbor. The clerk calls a number that is not hers. Wants: her child seen before the day's numbers run out.
-3. OC (outlook), 2059 [I] · End: Q. An official sent to close a clinic goes home. The institutions give way. His report says only "Nothing found."
-4. Hannah (28), 2059 [A] · End: E. The Galveston bomb. She saves the night staff and loses the child, and the oath of no heir follows in the corridor. The Fast Gear carries the chapter, and the ending is quiet grief.
-5. Brooks (24), 2062 [I] · End: W. The same gift from the other side: she is recruited and counts exits from habit. The unsolved bombing is the first file she is handed. The recruiter's question is left unanswered.
-- Batch ends on: being offered a long life with no say in what it is for.
-- Echo: the Prologue's first door, the body.
-- Plants: the unsolved 2059 bombing (Brooks's file, which now follows it in reading order), the no-heir oath (Alexandra, 2154), the name-less card.
-
-**A2. The Centuries That Became Days** (the second door, the stars)
-1. Brooks (25), 2063 [I] · End: Q. Three ministries ask the same question, and every form answers with a blank.
-2. Hannah (33), 2064 [I] · End: P. The test crossing. The drive stutters at the midpoint.
-3. OC (outlook), 2065 [I] · End: E. An old man weeps at the first departure. The berth is empty and the crowd is still cheering.
-4. OC (exposition), 2065 [I] · End: Q. A procurement officer finds no patent anywhere. The one lead is a firm eleven months old. Wants: the one signature that clears the purchase, before the quarter closes.
-5. Hannah (35), 2066 [A] · End: P. A lost drive on a crossing, brought home inside the field. The collapse she watches is not the one in her drill.
-- Batch ends on: wonder turning to the first fear of the road.
-- Echo: the nameless card of A1.1, now a form with a blank line.
-- Plants: the "who built it" blank (A4), Hannah's escort role (B), the stutter and the collapse.
-
-**A3. Cheap Hands and Angry Ones** (the third door, the work of the world)
-1. OC (outlook), 2067 [I] · End: P. A laid-off welder marches. His anger is at the job, not the robot. Someone three rows back carries a gun.
-2. Hannah (36), 2067 [A] · End: P. She holds an automation gate. The first stone comes from behind the strikers.
-3. Brooks (30), 2068 [I] · End: Q. She is told to fund the strikers' defense: "let them be angry, keep them alive." The note is unsigned, in a hand she knows.
-4. OC (exposition), 2068 [I] · End: Q. A foreman trains the crew that replaces his own. The machine finishes his drawing before he does. Wants: to finish the handover before his crew's last paid shift.
-5. Hannah (38), 2069 [I] · End: Q. She hires strikers into her firm, and one asks who owns the robots. She gives the honest answer: she does not know all of it.
-- Batch ends on: an honest "I don't know" from the person who guards the machines.
-- Echo: the blank "who built it" line of A2.1, now a blank where an owner should be.
-- Plants: the first sign of managed unrest (the engineered tensions of later chapters), the stone-thrower on the roof.
+A1 (the body), A2 (the stars), and A3 (the work of the world) are published and unchanged. Their plants carry forward: the unsolved 2059 bombing and the no-heir oath, the nameless card, the "who built it" blank, and the first sign of managed unrest. A1.4 (the bomb), A2.5 (the lost drive), and A3.2 (the gate) are their action chapters.
 
 ### Movement 2: The Gamble
 
-**A4. The Inventor Nobody Could Name** (the question)
-1. Brooks (26), 2064 [I] · End: Q. She drafts the answer every firm will give. The first press query arrives before the ink is dry.
-2. OC (outlook), 2066 [I] · End: Q. A journalist finds nothing in any archive. The one clerk who remembers the filing has been on leave for a year.
-3. Hannah (35), 2066 [I] · End: Q. At a dinner she gives the answer she was given, and the questioner decides she is lying. His card names a ministry that is on no chart.
-4. OC (exposition), 2068 [H] · End: Q. An analyst follows the money through eleven jurisdictions to a laundromat with a very good lawyer. Wants: the trail closed for his agency's filing, by the reporting date.
-5. Brooks (30), 2068 [A] · End: Q. She ends a rival probe with paper only, and the probe's lead notices the tidiness.
+**A4. The Inventor Nobody Could Name** (2050 to 2068)
+
+*A4a: Kenji's fixed past (no patron input)*
+1. A4.1 Kenji (2050) [I] · Q. He wakes, tests the knowledge in private, and chooses quiet.
+2. A4.2 Kenji (2053) [I] · P. The first cure. He writes the nameless card from A1.1 and slides it under the clinic door.
+3. A4.3 Ruth (2058) [I] · W. The wedding with one side of the room empty. She asks who he is.
+4. A4.4 Kenji (2059) [I] · E. The night after the bomb. He keeps the oath.
+5. A4.5 Kenji (2062) [I] · Q. He answers A1.5's recruiter question from his side.
+- Batch ends on: a man who wanted a quiet life learning what it will cost.
+- Echo: the nameless card of A1.1.
+
+*A4b: the world fails to find him*
+6. A4.6 Brooks (2064) [I] · Q. Drafts the answer every firm will give.
+7. A4.7 OC journalist (2066) [I] · B. Chases the inventor through archives and finds nothing.
+8. A4.8 Hannah (2066) [I] · W. At dinner she is asked who builds the ships.
+9. A4.9 OC analyst (2068) [H] · P. Follows the money to a laundromat. Wants: the trail closed for his agency's filing before the reporting date.
+10. A4.10 Brooks (2068) [A] · Q. Ends a rival probe with paper only. The probe's lead notices the tidiness.
 - Batch ends on: being noticed by the one man who sees how clean the work is.
 - Echo: the unsigned note of A3.3.
-- Plants: the tidiness that Harper will notice in 2112. This excerpt is the act's statement of its central mystery, and it is deliberately left unanswered.
 
-**B1. More Than a Voyage** (the crisis begins)
-1. Manswell (50), 2065 [I] · End: W. He announces the expedition and does not say the hard part aloud. A lender asks how many ships will stay to guard them, and he has no answer yet.
-2. Hannah (34), 2065 [I] · End: W. The guard ships will be cut first, and her husband says "farther" twice. She does not ask.
-3. OC (outlook), 2065 [I] · End: E. A would-be settler weighs a mortgage against a star, and writes her name on the interest list.
-4. Manswell (50), 2065 [I] · End: Q. His ledger is more than the company is worth. The first lender's letter is already in the stack.
-5. Brooks (27), 2065 [I] · End: Q. The cadre's reports resolve into a name, and the Protagonist's hands are unsteady when he takes the file.
-- Batch ends on: the one steady man shaking.
-- Echo: the 2059 oath of A1.4, since his wish to move work "farther" comes from the same fear.
-- Plants: the realization of 2065, seen only from outside.
+**B1. More Than a Voyage** (2065)
 
-**B2. The Money That Fled All at Once**
-1. Manswell (50), 2065 [I] · End: Q. The lenders call, each citing coincidence. A rival's chief calls with condolences before the deal is dead.
-2. OC (outlook), 2065 [I] · End: Q. A risk officer pulls out and tells himself it is safety doubts. His signature is on a memo he does not remember writing.
-3. Brooks (27), 2065 [I] · End: Q. She compiles the withdrawal timeline and leaves the cause field blank by rule. The clustering is too tidy even for her.
-4. Hannah (34), 2065 [I] · End: Q. The guard contracts are cancelled, and the new client's name is not on the retainer.
-5. Manswell (50), 2065 [H] · End: P. The board vote with an empty treasury, then a courier from an unknown investing firm.
-- Batch ends on: being bought, with the courier at the door of an empty treasury.
-- Echo: the tidiness that A4.5 ended on.
-- Reveal discipline: no chapter names a cause, and no document shows the squeeze.
+*B1a*
+1. B1.1 Manswell [I] · W. Announces the expedition. A lender asks how many ships will guard it.
+2. B1.2 Kenji [I] · Q. The announcement lands and the names fall into place.
+3. B1.3 Brooks [I] · Q. At 3 a.m. he asks for the file. His hands are not steady.
+4. B1.4 Hannah [I] · E. "Farther," twice. She does not ask.
+5. B1.5 Kenji [I] · Q. The walk home. He cannot tell her.
+- Batch ends on: the one steady man shaking, seen from both sides.
+- Echo: the 2059 oath of A4.4, since "farther" comes from the same fear.
 
-**B3. A Bargain Struck at the Brink**
-1. Manswell (50), 2065 [I] · End: Q. He signs in a glass room and asks to read what he signed.
-2. Hannah (34), 2065 [I] · End: Q. The new hulls are what she asked for and was told did not exist. The bill of materials names a yard she has never heard of.
-3. Brooks (27), 2065 [I] · End: W. She prepares his manager-grade file. His first words are "Who are you people?" and she is not allowed to answer.
-4. OC (outlook), 2065 [I] · End: Q. His chief engineer finds his objection already answered in the margin.
-5. Manswell (50), 2065 [H] · End: P. On the yard roof, knowing he no longer owns it. A clinician arrives for his first blood.
-- Batch ends on: owning nothing, with his first blood drawn by strangers.
-- Echo: the cure of A1.1, the same Med-Pod technology, now taken as a price.
+*B1b*
+6. B1.6 Tom [I] · Q. He watches his son-in-law change.
+7. B1.7 OC settler [I] · E. Weighs a mortgage against a star and writes her name.
+8. B1.8 Manswell [I] · Q. His ledger exceeds the company's worth.
+9. B1.9 Ruth [I] · E. Hannah cuts her meat into smaller pieces.
+10. B1.10 Kenji [I] · B. He decides to become a lender, and the chapter cuts before he signs.
+- Batch ends on: fear turning into work.
+- Echo: the shaking hands of B1.3, which his own chapter never names.
 
-**B4. The Day the Stars Became a Plan** (turn of Arc 1)
-1. Hannah (37), 2068 [A] · End: Q. A hired crew tries to foul the sailing, and she keeps the lane clear. The escort channel carries one word from home: "Proceed."
-2. Manswell (53), 2068 [I] · End: E. The world watches, and the company becomes larger than its founder.
-3. OC (exposition), 2068 [I] · End: Q. A charter clerk sorts applications by who can pay for a hull. The stack marked "governments" is the taller. Wants: the queue cleared before the charter window closes at midnight.
-4. Brooks (31), 2069 [I] · End: Q. The crowd is the one the Protagonist wants. His margin note says "fuel it."
-5. OC (outlook), 2069 [I] · End: P. First night at the settlement. A settler hears wind, then a ship's light drops out of the sky: the escort, leaving.
+**B2. The Money That Fled All at Once** (2065)
+
+*B2a*
+1. B2.1 Manswell [I] · Q. Lenders call, each citing coincidence. A rival condoles early.
+2. B2.2 Kenji [I] · B. He does not withdraw. The pen is over the larger commitment.
+3. B2.3 OC risk officer [I] · Q. Pulls out and tells himself it is safety doubts.
+4. B2.4 Brooks [I] · B. The timeline has one exception, and it is Kenji. The cursor rests on the cause field.
+5. B2.5 Tom [I] · W. Sees clinic transfers into an unknown firm and starts to ask whose money it is.
+- Batch ends on: a lender who will not leave.
+- Echo: the tidiness that A4.10 ended on.
+
+*B2b*
+6. B2.6 Hannah [I] · W. The guard contracts are cancelled. The clerk who read the retainer starts to say the client's name.
+7. B2.7 Kenji [I] · Q. He reads himself as the exception. His guilt is about exposure.
+8. B2.8 Brooks [I] · Q. Asks for authority to look for a hostile hand and writes a rival's name.
+9. B2.9 Kenji [I] · E. He tells Hannah it is friends' money, and she believes him.
+10. B2.10 Manswell [H] · P. The board vote with an empty treasury, then the courier.
+- Batch ends on: being bought, with the courier at the door.
+- Reveal discipline: no document names a cause. The reader sees that Kenji did not order the squeeze and does not know who did.
+
+**B3. A Bargain Struck at the Brink** (2065)
+
+*B3a*
+1. B3.1 Manswell [I] · B. In the glass room, the pen is over the page before he asks to read.
+2. B3.2 Kenji [I] · Q. Watches the signing and reads what the man is for.
+3. B3.3 Hannah [I] · Q. The new hulls are what she asked for. The bill of materials names an unknown yard.
+4. B3.4 Brooks [I] · W. His first words are "Who are you people?" and she cannot answer.
+5. B3.5 Ashby [A] · P. His droid crews find the first armored body.
+- Batch ends on: a dead world found by his own machines.
+- Echo: the cure of A4.2, the same Med-Pod technology now taken as a price.
+
+*B3b*
+6. B3.6 Kenji [I] · E. The footage. The Protheans died in his own system.
+7. B3.7 OC engineer [I] · Q. Finds his objection already answered in the margin.
+8. B3.8 Tom [I] · W. Is told a patient's name and asked to forget it.
+9. B3.9 Kenji [I] · Q. He signs Manswell's treatment order and does not sleep.
+10. B3.10 Manswell [H] · P. On the yard roof, as a clinician arrives for his first blood.
+- Batch ends on: owning nothing, with his first blood drawn.
+
+**B4. The Day the Stars Became a Plan** (2068 to 2069)
+
+*B4a*
+1. B4.1 Kenji [I] · P. The hired crew moves to foul the lane. He writes "Proceed."
+2. B4.2 Hannah [A] · Q. She holds the lane. "Proceed" arrives.
+3. B4.3 Manswell [I] · E. The company becomes larger than its founder.
+4. B4.4 OC charter clerk [I] · Q. Sorts applications by who can pay. Wants: the queue cleared before the charter window closes at midnight.
+5. B4.5 Tom [I] · E. Watches the hulls he would have built sail without him.
+- Batch ends on: watching your own ships sail without you.
+- Echo: the drive stutter of A2.2, now a sailing that holds.
+
+*B4b*
+6. B4.6 Kenji [I] · Q. He decides to feed the crowd and writes why.
+7. B4.7 Brooks [I] · Q. His margin note says "fuel it."
+8. B4.8 Ruth [I] · E. Watches him at the settlement broadcast and sees a man paying a price.
+9. B4.9 Kenji [I] · B. The escort must leave. The chapter cuts before he gives the order.
+10. B4.10 OC settler [I] · P. First night at the settlement. The escort's light drops out of the sky.
 - Batch ends on: being left alone under a new sky.
-- Echo: the drive stutter and the drill of A2, now a sailing that holds.
-- Closes Arc 1: the answer to "who" is still withheld, but the reader now sees that someone wanted this.
+- Closes Arc 1: the reader knows who wanted this and what it cost. The in-world answer to "who" stays withheld.
 
-### Movement 3: The Dead
+### Movement 3: The Dead (original casts, to be extended)
 
-**C1. A Light Over Pluto's Moon**
-1. OC (outlook), 2066 [I] · End: P. A station observer watches Charon flare, and every instrument disagrees. The flare dims, and a second light holds steady for eleven minutes.
-2. Hannah (35), 2066 [H] · End: Q. Her picket holds off Pluto on orders. The flare comes on the date she was told to expect nothing. "Stay where you are." The hand is his.
-3. Brooks (28), 2066 [I] · End: B. She collects the accounts and may supply no cause. One physicist's proposal is almost right, and she must decide whether it is published.
-4. OC (exposition), 2067 [I] · End: Q. A referee watches explanation after explanation die. The best is retracted by its own author. Wants: a verdict before the issue closes.
-5. Hannah (36), 2067 [A] · End: Q. She turns back a yacht owned by a Union delegate.
-- Batch ends on: a stranger's claim on the door, the Union's first interest.
-- Echo: the unsigned note of A3.3, now a message whose hand she knows.
-- Plants: Charon as a door, and the Union's interest in it.
+**C1. A Light Over Pluto's Moon.** C1.1 OC [I] P. C1.2 Hannah [H] Q ("Stay where you are"). C1.3 Brooks [I] B. C1.4 OC [I] Q (wants a verdict before the issue closes). C1.5 Hannah [A] Q (the delegate's yacht). Batch ends on a stranger's claim on the door. Echo: the unsigned note of A3.3.
 
-**C2. The Thousand Dead**
-1. Brooks (27), 2065 [I] · End: Q. She counts about a thousand bodies, and the marks of the fight frighten her more than the count.
-2. Hannah (35), 2066 [I] · End: E. "Something fought them." Her husband says he does not know, and she believes him.
-3. OC (outlook), 2070 [A] · End: P. A prospector's lamp finds the first body, then a hundred.
-4. Brooks (32), 2070 [I] · End: W. She runs the reveal and is told to strike the sentence that says why they died. The reader is not told what it said.
-5. OC (exposition), 2070 [I] · End: P. An engineer stitches the footage into a live feed before the last caption is checked. Wants: the feed ready before the broadcast slot.
-- Batch ends on: a world seeing its first dead before anyone has checked the caption.
-- Echo: "farther" of B1.2, since her husband's silence about the dead repeats his silence about the guard ships.
-- Midpoint of the act. Both Hannah and Brooks see the cavern before the public does.
+**C2. The Thousand Dead.** C2.1 Brooks [I] Q. C2.2 Hannah [I] E ("I don't know"; the reader sees the omission). C2.3 OC [A] P. C2.4 Brooks [I] W (strike the sentence). C2.5 OC [I] P (wants the feed ready before the broadcast slot). Batch ends on a world seeing its first dead before anyone has checked the caption.
 
-**C3. What the Dead Told a Waking World**
-1. Brooks (32), 2070 [I] · End: Q. She collects the reaction, and one letter is addressed to whoever opens the dead's door.
-2. OC (outlook), 2070 [I] · End: E. An editor sorts the reaction by register and prints all of it. The letter he leads with asks whether the dead had children.
-3. Manswell (55), 2070 [I] · End: B. His firm is steadiest of all the markets, and he knows it should not be. A reporter asks on air whether he knew.
-4. OC (exposition), 2070 [I] · End: Q. A Union delegate debates custody of the cavern, and the motion carries because nobody wants it. Wants: a vote before the session recesses.
-5. Hannah (39), 2070 [I] · End: Q. She reads letters aloud and watches her husband not answer. He folds one into his pocket: it is from a child.
-- Batch ends on: a hidden kindness in a man who answers no one.
-- Echo: the nameless card of A1.1, now a letter addressed to no one.
+**C3. What the Dead Told a Waking World.** C3.1 Brooks [I] Q. C3.2 OC [I] E. C3.3 Manswell [I] B. C3.4 OC [I] Q (wants a vote before the session recesses). C3.5 Hannah [I] Q (the child's letter). Batch ends on a hidden kindness in a man who answers no one.
 
-### Movement 4: The Road
+### Movement 4: The Road (original casts, to be extended)
 
-**C4. A Moon That Was a Door**
-1. Hannah (40), 2071 [A] · End: E. The first public crossing, out at Arcturus before her pulse finishes. A red giant fills the viewport and no one aboard speaks.
-2. OC (outlook), 2071 [I] · End: Q. A captain does not believe in the passage until he sees the wrong sun. The ship behind him has not arrived.
-3. Manswell (56), 2071 [I] · End: Q. His ships win the first charters, and an unsigned offer arrives to buy them back at triple.
-4. Brooks (33), 2071 [I] · End: Q. The transit log shows a ship ahead of the first crossing, under a code she cannot read.
-5. OC (exposition), 2071 [I] · End: Q. A physicist redraws the maps and finds one number he cannot make smaller. Wants: the new maps filed before the atlas goes to the printers.
-- Batch ends on: a number that will not shrink, and the sense that someone was here first.
-- Echo: the four-day crossing of A2.2, now a moment.
-- Plants: the ship ahead (paid off in C5 and C6).
+**C4. A Moon That Was a Door.** C4.1 Hannah [A] E. C4.2 OC [I] Q. C4.3 Manswell [I] Q. C4.4 Brooks [I] Q. C4.5 OC [I] Q (wants the new maps filed before the atlas goes to press). Batch ends on a number that will not shrink.
 
-**C5. Five Weeks Become a Moment**
-1. Hannah (41), 2072 [H] · End: Q. A survey run to Euler, Asgard, Utopia, and Vetus. She finds an unrecognized ship's trace at Utopia.
-2. OC (outlook), 2072 [I] · End: E. A colonist family reaches a strange sun. The child says it is beautiful and the father says it is theirs.
-3. Manswell (58), 2073 [I] · End: Q. He is told which of his surveyors' distances to publish. The figure is neither the lowest nor the highest.
-4. Brooks (35), 2073 [I] · End: Q. She chooses which version of the distances circulates, and works out which figure the cadre is protecting.
-5. OC (exposition), 2072 [I] · End: E. A surveyor does the five-week sum the old way. The sum is correct and no one will use it again. Wants: his survey signed off before the departure window.
-- Batch ends on: a correct answer that belongs to a world that has ended.
-- Echo: the "no patent anywhere" of A2.4, now a ship no record names.
+**C5. Five Weeks Become a Moment.** C5.1 Hannah [H] Q. C5.2 OC [I] E. C5.3 Manswell [I] Q. C5.4 Brooks [I] Q. C5.5 OC [I] E (wants the survey signed off before the departure window). Batch ends on a correct answer that belongs to a world that has ended. Echo: the "no patent anywhere" of A2.4, now a ship no record names.
 
-**C6. The Place Where the Road Ran Out**
-1. Hannah (41), 2072 [I] · End: Q. She holds a picket at the second-jump limit and turns back a man she knows.
-2. Brooks (34), 2072 [I] · End: Q. She logs the Fortress Systems' build timeline. The claim fits every source because no source names anyone else.
-3. OC (outlook), 2073 [I] · End: Q. A turned-back prospector's story becomes a legend. The bartender has heard it from three other men this week.
-4. Manswell (58), 2073 [I] · End: Q. His survey ships are refused under a stamp carrying his own signature.
-5. OC (exposition), 2074 [I] · End: Q. A chartmaker draws five systems as blank space and is told to leave the label off. The finished chart ends exactly where the road does. Wants: the plate ready before the press run.
-- Batch ends on: a map that stops where the road does.
-- Echo: the escort leaving in B4.5, now Hannah as the one who stops others.
-- Pays off: the ship ahead of C4 and the trace of C5 become the bloc's occupation of the Fortress Systems.
+**C6. The Place Where the Road Ran Out.** C6.1 Hannah [I] Q. C6.2 Brooks [I] Q. C6.3 OC [I] Q. C6.4 Manswell [I] Q. C6.5 OC [I] Q (wants the plate ready before the press run). Batch ends on a map that stops where the road does. Pays off the ship ahead as the bloc's occupation of the Fortress Systems.
 
-**C7. A Road That Runs Both Ways** (close of Act I)
-1. Hannah (44), 2075 [I] · End: W. She drills the flotilla to hold a door. Her husband answers her question with "Keep drilling."
-2. Brooks (37), 2075 [I] · End: Q. The letters show dread overtaking fascination for the first time.
-3. OC (outlook), 2074 [I] · End: Q. A sky-watcher logs another quiet night as the insurers refuse certain risks. A flicker crosses the telescope field and is only a satellite.
-4. OC (exposition), 2074 [I] · End: Q. An underwriter drafts the clause excluding visitation from beyond the Solar System. The clause is approved without comment. Wants: the clause in before the renewal cycle closes.
-5. Manswell (60), 2075 [I] · End: Q. At Alpha Centauri he asks what the guard ships were really for, and passes a picket flying a pennant he has never seen.
-- Batch ends on: dread, closing the act on a pennant no one has seen.
-- Echo: "farther" of B1.2, since "Keep drilling" is the same one-line deflection.
-- Closes the act and plants the colony charter he cannot trace in D1.
+**C7. A Road That Runs Both Ways.** C7.1 Hannah [I] W ("Keep drilling"). C7.2 Brooks [I] Q. C7.3 OC [I] Q. C7.4 OC [I] Q (wants the clause in before the renewal cycle closes). C7.5 Manswell [I] Q (the pennant). Batch ends on dread. Plants the colony charter he cannot trace in D1.
 
 ## 3. Threads through the act
 
-| Thread | Chapters | Path |
-| --- | --- | --- |
-| Hannah | 19 of 75 | Father cured and upload refused (A1), the bomb and the no-heir oath (A1), escort flotilla (A2 to B4), the flare (C1), the cavern (C2), the first crossing (C4), the picket (C6), the question about the other side (C7). |
-| Brooks | 17 | Recruited (A1), the person who writes the answers no one can check (A4), the mechanism of unrest and of reveal (A3, C2), the one who counts and conceals (B2, C5, C6, C7). |
-| Manswell | 12 | Announcement, collapse, bargain, sailing (B), then the public face of a company that outgrows him (C3 to C7). |
-| The unseen hand | no POV | A card under a door (A1), an unsigned note (A3), unsteady hands (B1), "Stay where you are" (C1), "I don't know" (C2), "Keep drilling" (C7). The Protagonist appears only as seen by Hannah, Brooks, and Manswell. |
-| The ship ahead | C4, C5, C6 | A code Brooks cannot read, a trace Hannah does not recognize, then a picket at the limit where the road ends. |
-| The chorus | 27 OC slots | Ordinary people at each step: the queue, the dock, the picket line, the bar. Two per excerpt at most. |
+| Thread | Path |
+| --- | --- |
+| Kenji | The quiet life (A4a), the realization and the rescue (B), the cavern and its cost (B3), and the one hidden hand behind the order "Stay where you are" (C1). |
+| Hannah | Father cured and upload refused, the bomb and the oath (A1), escort flotilla (A2 to B4), the flare (C1), the cavern (C2), the first crossing (C4), the picket (C6), the question about the other side (C7). |
+| Brooks | Recruited (A1), the person who writes the answers no one can check (A4), the one who counts and conceals (B2, C5, C6, C7), and the first to see the pattern in the withdrawals (B2). |
+| Manswell | Announcement, collapse, bargain, sailing (B), then the public face of a company that outgrows him (C3 to C7). |
+| Tom and Ruth | The found family: hands and tools, and who looks after whom. Their view of Kenji changes through B. |
+| The conspiracy | Author-side only. It appears in the chapters as unexplained tidiness and as a few helpful strangers. |
+| The ship ahead | C4, C5, C6: a code Brooks cannot read, a trace Hannah does not recognize, then a picket at the limit where the road ends. |
+| The chorus | Ordinary people at each step. Generic OC slots stay under 20 percent of Movement 2. |
 
 ## 4. Gear plan and ending plan
 
-### Gears
+**Gears.** Act I as currently cast is 86 investigative, 9 action, and 5 hybrid micro-chapters, so the Slow Gear dominates. The action chapters are the pressure points: the bomb (A1.4), the lost drive (A2.5), the gate (A3.2), the closed probe (A4.10), the cavern find (B3.5), the sailing (B4.2), the yacht (C1.5), the cavern mouth (C2.3), and the first crossing (C4.1). Slow Gear paragraphs run 3 to 4 sentences and never more than 4. In the Fast Gear the body carries the feeling (Kenji's tell is squaring objects and washing his hands).
 
-- Act I is 62 investigative, 8 action, and 5 hybrid chapters, so the Slow Gear dominates.
-- The eight action chapters are the act's pressure points: the bomb (A1), the lost drive (A2), the gate (A3), the closed probe (A4), the sailing (B4), the yacht (C1), the cavern mouth (C2), and the first crossing (C4).
-- Action chapters are Fast Gear throughout, and under the revised style the body carries the feeling: a held breath, shaking hands, a grip that will not open. This matters most in A1.4 (the loss of the child) and C4.1, whose bank hooks end on grief and awe, not an event.
-- B1, B2, and B3 are 15 consecutive chapters with only two hybrids and no action chapter. That fits a threat made of money, but each chapter still closes in the Fast Gear register, in short paragraphs, whatever its ending type.
-- C3, C6, and C7 are five investigative chapters each. They are the act's quietest stretches, and the OC voices and the letters give them texture.
-- Slow Gear paragraphs run 3 to 4 sentences and never more than 4. Each chapter opens on a concrete, question-raising detail, which the draft supplies and this outline does not fix.
+**Batch rule.** No batch has more than two physical events (the A4 to B4 batches have none above one). The strongest hook should sit in each batch's fifth chapter. B1a (ends on Q), B4a (ends on E), and B3b are the weakest endings, and are flagged below.
 
-### Ending types
-
-The Slow-to-Fast flip stays the default for every chapter's close. What the close carries now rotates among four types, plus the emotional beat. Counts below are read from the bank's hooks.
-
-| Excerpt | P | Q | B | W | E |
-| --- | --- | --- | --- | --- | --- |
-| A1 | 1 | 2 | 0 | 1 | 1 |
-| A2 | 2 | 2 | 0 | 0 | 1 |
-| A3 | 2 | 3 | 0 | 0 | 0 |
-| A4 | 0 | 5 | 0 | 0 | 0 |
-| B1 | 0 | 2 | 0 | 2 | 1 |
-| B2 | 1 | 4 | 0 | 0 | 0 |
-| B3 | 1 | 3 | 0 | 1 | 0 |
-| B4 | 1 | 3 | 0 | 0 | 1 |
-| C1 | 1 | 3 | 1 | 0 | 0 |
-| C2 | 2 | 1 | 0 | 1 | 1 |
-| C3 | 0 | 3 | 1 | 0 | 1 |
-| C4 | 0 | 4 | 0 | 0 | 1 |
-| C5 | 0 | 3 | 0 | 0 | 2 |
-| C6 | 0 | 5 | 0 | 0 | 0 |
-| C7 | 0 | 4 | 0 | 1 | 0 |
-| **Act** | **11** | **47** | **2** | **6** | **9** |
-
-- **Batch rule met.** No batch has more than two physical-event endings.
-- **The fifth chapter.** The strongest hook sits in chapter 5 in most batches. It is weaker in A3 and C4, where the boldest beat (the stone, the red giant) falls earlier.
-- **The gap.** Quiet reversal is 47 of 75 endings (63 percent) and held breath is only 2. A reader taking five chapters in one sitting would feel five reversals in a row in A4 and C6. The style's own warning is repetition, and this is where it bites.
-
-### Proposed re-cuts (decision)
-
-Each re-cut keeps the same fact and changes where the chapter stops. The Excerpt_Bank.md hook would be re-worded to match if the author accepts.
+**Proposed re-cuts (decision).** A re-cut keeps the fact and changes where the chapter stops. The endings shown in Section 2 for these chapters already use the proposed type. The bank's hook would be re-worded to match if accepted. A1 to A3 are published and take no re-cuts.
 
 | Chapter | Now | Proposed | How |
 | --- | --- | --- | --- |
-| A3.5 | Q | W | She starts to answer who owns the robots and the chapter cuts before she does. Gives the batch its strongest last beat. |
-| A4.2 | Q | B | The journalist lifts the receiver at the clerk's old extension, and the chapter cuts before anyone answers. |
-| A4.3 | Q | W | She is about to ask what ministry the card names, and he is already gone. |
-| A4.4 | Q | P | The laundromat door chimes, and the machines inside stop. |
-| B1.2 | W | E | End on the quiet of her not asking. B1.1 already ends on an unanswered question. |
-| B2.3 | Q | B | Her cursor rests on the blank cause field, and the chapter cuts before she types or does not. |
-| B2.4 | Q | W | The clerk who read the retainer begins to say the client's name, and the line goes dead. |
-| B3.1 | Q | B | The pen is over the page before he asks to read it. |
+| A4.7 | Q | B | The journalist lifts the receiver at the clerk's old extension, and the chapter cuts before anyone answers. |
+| A4.8 | Q | W | She is about to ask which ministry the card names, and he is already gone. |
+| A4.9 | Q | P | The laundromat door chimes, and the machines inside stop. |
+| B2.2 | Q | B | The pen is over the larger commitment, and the chapter cuts before he signs. |
+| B2.4 | Q | B | Her cursor rests on the blank cause field. |
+| B2.6 | Q | W | The clerk begins to say the client's name, and the line goes dead. |
+| B1.10 | Q | B | The pen is over the commitment, and the chapter cuts before he signs. |
+| B3.1 | Q | B | The pen is over the page before he asks to read. |
+| B4.9 | Q | B | The order is unsent, and the chapter cuts. |
 | C4.2 | Q | P | The ship behind the captain does not arrive, and the chapter ends on the empty sky. |
-| C4.3 | Q | B | His hand rests on the unsigned offer, and the chapter cuts before he decides. |
+| C4.3 | Q | B | His hand rests on the unsigned offer. |
 | C6.1 | Q | B | Her finger is on the hail key as the ship's name comes up. |
-| C6.3 | Q | E | End on the legend settling over the bar, with the repeats left for the following chapter. |
-| C6.5 | Q | W | The label is the thing withheld: the plate goes to press without it. |
+| C6.3 | Q | E | End on the legend settling over the bar. |
+| C6.5 | Q | W | The plate goes to press without the label. |
 | C7.3 | Q | E | End on the quiet night, with the satellite as the last image. |
-| C7.4 | Q | B | The clause sits on the desk awaiting sign-off, and the chapter cuts before approval. |
+| C7.4 | Q | B | The clause sits awaiting sign-off. |
 
-If all fifteen were accepted, the act would read P 13, Q 33, B 8, W 9, E 12, with no batch above two physical events and no batch with more than three of one type.
+**Flags on batch endings.** B1a would end more strongly if Brooks's hands-not-steady chapter (B1.3) moved to the fifth slot, which is plausible if Kenji's walk home precedes the 3 a.m. file. B4a ends on grief, not a hook, by design. B3b's strongest beat (the blood draw) is the fifth chapter.
 
-### Voice sheet check (decision)
-
-Habits of attention from the style's voice sheet: Hannah notices what is missing, Brooks tallies and counts, OC voices notice what they can touch and afford, and Manswell reads money and ownership. A motif such as counting belongs to one character per batch. These chapters break that, and should be given a different habit before drafting.
+**Voice sheet check (decision).** Habits of attention: Hannah notices what is missing, Brooks tallies and counts, OC voices notice what they can touch and afford, Manswell reads money and ownership, Kenji reads what a thing is for, Tom notices hands and tools, Ruth notices who looks after whom, and Ashby listens to what machines are doing wrong. A motif such as counting belongs to one character per batch. Clashes to fix before drafting:
 
 | Batch | Clash | Fix |
 | --- | --- | --- |
-| A4 | A4.4 analyst follows eleven jurisdictions, a count, beside Brooks's A4.1 and A4.5 | Give the analyst a touchable habit: the weight of the files, the laundromat's coin slots. |
-| B2 | B2.1 Manswell "counts the calls", beside Brooks's timeline in B2.3 | Manswell reads what each caller's house is worth and owns. |
-| C3 | C3.2 editor sorts reaction by register, which is a tally, beside Brooks's collection in C3.1 | The editor handles the paper: the weight of each pile, the smell of the envelopes. |
+| A4b | A4.9's analyst follows eleven jurisdictions, a count, beside Brooks's A4.6 and A4.10 | Give the analyst a touchable habit: the weight of the files, the laundromat's coin slots. |
+| B2a | B2.1 Manswell "counts the calls", beside Brooks's timeline in B2.4 | Manswell reads what each caller's house is worth and owns. |
+| C3 | C3.2 editor sorts reaction by register, beside Brooks's C3.1 | The editor handles the paper: the weight of each pile, the smell of the envelopes. |
 | C4 | C4.5 physicist's one number, beside Brooks's log in C4.4 | He holds the number as a length of string on the map. |
-| C5 | C5.3, C5.4, and C5.5 are all about distance figures | Manswell reads what each figure does to charter value, Brooks owns the figures, and the surveyor does the sum by hand, on paper. |
+| C5 | C5.3, C5.4, and C5.5 are all about distance figures | Manswell reads what each figure does to charter value, Brooks owns the figures, and the surveyor does the sum by hand. |
 | C7 | C7.3 sky-watcher's log, beside Brooks's tally in C7.2 | The sky-watcher notices the cold eyepiece and the thermos, not the log. |
 
-### Exposition chapters
-
-The twelve OC (exposition) chapters (A1.2, A2.4, A3.4, A4.4, B4.3, C1.4, C2.5, C3.4, C4.5, C5.5, C6.5, C7.4) each carry a want, and a deadline where one fits, inline in Section 2. The want must block on the lore, so the information arrives as something the narrator is trying to do. Wants and deadlines are mine (decision).
+**Exposition chapters.** A4.9, B4.4, C1.4, C2.5, C3.4, C4.5, C5.5, C6.5, and C7.4 each carry a want and a deadline, so the lore arrives as something the narrator is trying to do.
 
 ## 5. Constraints
 
-- No outside chapter or document names the lender squeeze, the true nature of the investing firm, or the Protagonist's role in the flare.
-- The Protagonist carries no POV and is never named in an in-universe document. Hannah's private disagreement with him is the only dissent seen in this act.
-- The Reapers are not known or suspected by anyone in this act. Chapters about "what is on the other side" must read as a reaction to the dead, not as foreknowledge.
+- **Kenji's POV.** From A4 his POV carries his thoughts, including the Reapers from 2065. His own chapters never name shaking hands, and the body carries the feeling through squaring objects and washing his hands. No character is told how he knows what he knows.
+- **Documents.** No in-universe document names the conspiracy, the true cause of the 2065 withdrawals, or Kenji's role in the flare. His name may appear in documents for minor matters.
+- **Reapers.** No one outside the inner circle knows or suspects the Reapers. Chapters about "what is on the other side" read as a reaction to the dead, and Kenji's only stated justification to others is the hypothetical about whoever killed the dead.
+- **Hannah's dissent** is the only dissent seen in this act. Hannah, Brooks, and Manswell see him from outside.
 - No human meets an alien, and the Citadel appears nowhere.
-- Where a date is open in the bible (the flare, the reveal, the first public crossing), the bank's date is a proposal.
-
-- **Register (author ruling).** What the excerpts say about how the written accounts read (for example, A1's "stunned, flat register") applies to the in-universe record only. The chapters carry full emotion.
-- **Style (author ruling).** The Elastic Pace System, revised for serialization, governs the drafting of every chapter. In the Fast Gear, named thoughts and feelings are stripped but one body detail stays.
+- **Dates** open in the bible (the flare, the reveal, the first public crossing) are proposals.
+- **Register (author ruling).** What the excerpts say about how the written accounts read applies to the in-universe record only. The chapters carry full emotion.
+- **Style (author ruling).** The Elastic Pace System, revised for serialization, governs every chapter. In the Fast Gear, named thoughts and feelings are stripped but one body detail stays.
 
 ## 6. Noticed, not changed
 
-- **Word counts corrected.** The figures in Story_Structure.md Section 12A were computed from chapter counts at an average. Recomputed from the type tags, the acts come to about 57,750, 49,250, and 36,500 words, and the arcs to about 30,600, 27,150, 20,350, 28,900, 17,800, and 18,700. I've corrected Section 12A. The bank's own stated total (142,850) is about 650 words below the tag-based total (143,500). The revised style leaves the chapter length bands as they were, so none of these figures moved.
-- **Reading order now follows date order in Movement 1.** A1 and A2 were reordered (author request) so that A1 runs 2053, 2058, 2059, 2059, 2062 and A2 runs 2063, 2064, 2065, 2065, 2066. A3 was already in date order. A4 was misread earlier as having a jump and is also already in date order. A1 now closes on the recruiter's question and no longer on the no-heir oath, and A2 opens on the "who built it" blank before the test crossing. Brooks's 2063 ministries must be reacting to demonstrations or rumor, not a public crossing. Excerpt_Bank.md carries the same order, and Act_I_Movement_1_The_Three_Doors.md is the movement's detailed outline.
-- **Still out of date order.** C5 ends on a 2072 chapter after two 2073 chapters. C7 runs 2075, 2075, 2074, 2074, 2075. Both were left as they are, since only Movement 1 was reordered.
-- **Two departures in 2065.** A2 chapter 3 shows the first scheduled departure in 2065, and B1 announces the expedition in the same year, with the sailing in the late 2060s. If the scheduled departure is an ordinary passenger crossing, the wording should say so, so that B4's departure is read as the expedition.
-- **C7 chapter 1.** "Keep drilling" in answer to "what is on the other side" comes closest in this act to the Reaper secrecy rule, which bars any chapter from referring to an unnamed enemy that drills are for. It can be read as the Protagonist deflecting a question about the dead's enemy. It should be checked against the rule, or reworded so the answer is about readiness and not about a particular threat.
-- **Brooks and the ship ahead.** C4 has her unable to read the code in 2071, and C6 has her logging the Fortress build timeline in 2072. That works if C6 shows her gaining access, because the hidden service's Collection layer would otherwise already know.
-- **Voice thinness.** Act I draws 27 of its 75 chapters from generic OC slots (36 percent) because only Hannah, Brooks, and Manswell are old enough to carry POV. This is the highest share in the bank, and it is by design (Casting rules, Excerpt_Bank.md).
-- **Excerpt_Bank.md hooks.** The ending types in Section 2 are read from the bank's existing hooks. The fifteen re-cuts in Section 4 would change fifteen of those hooks if accepted. The bank's key still describes every [I] chapter as ending in the Fast Gear and every line as ending on a "cliffhanger", which is the old single-shape system. It should be reworded to "ending type" when the author rules on the re-cuts.
-- **Action chapters that end quiet.** A1.4, B4.1, C1.5, C4.1, and A4.5 are [A] chapters whose bank hooks are a line of dialogue or a held moment, not an event. Under the revised style that is intended, since the Fast Gear body does the work, but a reader expecting a blow at the end of an action chapter will need the body detail to land.
-- **Season 1 Plan.** The "Vary the endings" item in the pre-launch fixes is now answered in part by Section 4. The remaining work is the author's ruling on the re-cuts.
+- **Date order.** C5 ends on a 2072 chapter after two 2073 chapters, and C7 runs 2075, 2075, 2074, 2074, 2075. Both are left as they are until C is extended.
+- **Two departures in 2065.** A2.3 shows a first scheduled departure in 2065, and B1 announces the expedition in the same year with the sailing in the late 2060s. A2.3 should be read as an ordinary passenger crossing.
+- **"Keep drilling" (C7.1).** It comes close to the Reaper secrecy rule. It reads as readiness for the dead's enemy, not a particular threat, which fits Kenji's hypothetical.
+- **Brooks and the ship ahead.** C4.4 has her unable to read the code in 2071, and C6.2 has her logging the Fortress build timeline in 2072. C6 should show her gaining access.
+- **Voice thinness.** Act I draws 27 of its 100 micro-chapters (27 percent) from generic OC slots. Movement 2 stays under 20 percent by design.
+- **The Excerpt Bank hooks.** The re-cuts above change 16 hooks if accepted.
